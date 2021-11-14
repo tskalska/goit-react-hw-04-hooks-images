@@ -1,0 +1,6 @@
+.Load{
+  z-index: 100;
+  position:fixed;
+  left: 50%;
+  top: 35%;
+}
